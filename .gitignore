@@ -1,0 +1,15 @@
+.vscode
+.env
+.git/
+
+python3.8.8
+
+notShare
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.pytest_cache
+*.egg-info/
+log/
+*.log

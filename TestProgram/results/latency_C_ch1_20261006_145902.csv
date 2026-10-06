@@ -1,0 +1,33 @@
+﻿# program_version: 0.1.0
+# started: 2026-10-06T14:59:02
+# pc: HPC
+# port: COM4
+# adapter: CH340 (USB-SERIAL CH340(COM4))
+# setup: C - 광 링크 전체 (원격 배선 루프백)
+# channel_no: 1
+# fiber_length_m: 1000.0
+# uart: 8N1 rtscts=False
+# payload: 16 byte, pattern=incrementing, seq=True
+# iterations: 1000
+# warmup: 10
+# interval_ms: 10.0
+# timeout_ms: 1000.0
+# read_mode: poll
+# baudrates: 9600
+# note: 
+channel,baudrate,seq,t_send_ns,first_byte_us,latency_us,rx_len,err_bytes,stale_bytes,status
+1,9600,0,7995305665400,,,0,16,0,TIMEOUT
+1,9600,1,7996315755900,,,0,16,0,TIMEOUT
+1,9600,2,7997325858100,,,0,16,0,TIMEOUT
+1,9600,3,7998336088900,,,0,16,0,TIMEOUT
+1,9600,4,7999346375100,,,0,16,0,TIMEOUT
+1,9600,5,8000356457400,,,0,16,0,TIMEOUT
+1,9600,6,8001366536300,,,0,16,0,TIMEOUT
+1,9600,7,8002376793500,,,0,16,0,TIMEOUT
+1,9600,8,8003387138600,,,0,16,0,TIMEOUT
+1,9600,9,8004397216400,462315.400,,1,16,0,TIMEOUT
+1,9600,10,8005407293900,712842.200,,1,16,0,TIMEOUT
+1,9600,11,8006417372200,,,0,16,0,TIMEOUT
+1,9600,12,8007427448600,,,0,16,0,TIMEOUT
+1,9600,13,8008437675700,,,0,16,0,TIMEOUT
+1,9600,14,8009447751300,,,0,16,0,TIMEOUT

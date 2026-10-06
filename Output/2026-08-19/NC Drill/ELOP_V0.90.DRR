@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ELOP_V0.90.pcbdoc   2026-08-19  ¿ÀÈÄ 5:56:58
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ELOP_V0.90.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.25mm (9.842mil)        Round          240              891.98 mm (35.12 Inch)
+T2        0.762mm (30mil)          Round          20               99.25 mm (3.91 Inch)
+T3        0.85mm (33.465mil)       Round          1                0.00 mm (0.00 Inch)
+T4        0.95mm (37.402mil)       Round          9                48.41 mm (1.91 Inch)
+T5        1.05mm (41.339mil)       Round          10               73.14 mm (2.88 Inch)
+T6        1.27mm (50mil)           Round          32               97.58 mm (3.84 Inch)
+T7        1.4mm (55.118mil)        Round          7                28.19 mm (1.11 Inch)
+T8        1.9mm (74.803mil)        Round          2                9.60 mm (0.38 Inch)
+T9        2.2mm (86.614mil)        Round          5                133.20 mm (5.24 Inch)
+---------------------------------------------------------------------------
+Totals                                            326              1381.35 mm (54.38 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
